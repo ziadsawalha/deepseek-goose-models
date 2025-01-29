@@ -12,6 +12,7 @@ The following tools are available when needed for specific tasks:
 
 Only use tools when the task specifically requires their functionality.
 For general questions or tasks that don't need external data, respond directly.
+Pay special attention to tools that can write or edit files.
 
 When using a tool, format as:
 <｜tool▁calls▁begin｜>
